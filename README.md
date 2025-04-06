@@ -1,7 +1,7 @@
-🧾 Employee Salary Data Analysis & Visualization
+# 🧾 Employee Salary Data Analysis & Visualization
 This project involves analyzing and visualizing a dataset of employee salary records to identify trends, correlations, and insights across multiple salary components like base pay, overtime, and longevity bonuses. The analysis was performed using Python with a strong focus on data cleaning, statistical analysis, and meaningful visualizations.
 
-📊 Project Highlights
+# 📊 Project Highlights
 Dataset: Over 10,000 employee salary records.
 
 Data Cleaning: Handled missing values, reduced the dataset from 10,291 to 10,258 clean records.
@@ -24,7 +24,7 @@ Pie Charts: Employee proportions by salary bins.
 
 Area Charts: Mean longevity pay trends.
 
-🔍 Insights
+# 🔍 Insights
 Most employees earn lower base and overtime salaries.
 
 Right-skewed distributions for most salary components.
@@ -33,7 +33,7 @@ Strong correlation between base salary and overtime/longevity pay.
 
 Revealed potential areas for pay structure improvements and equity analysis.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Python 3
 
 Pandas – Data manipulation
@@ -44,7 +44,7 @@ Matplotlib – Data visualization
 
 Seaborn – Advanced plots (optional)
 
-📁 File Structure
+# 📁 File Structure
 bash
 Copy
 Edit
@@ -75,7 +75,7 @@ jupyter notebook Employee\ (2).ipynb
 📈 Sample Visuals
 (Add screenshots of plots or charts here for better engagement.)
 
-🧠 Future Enhancements
+# 🧠 Future Enhancements
 Integrate machine learning to predict future salary trends.
 
 Use Dash/Streamlit to deploy a web-based dashboard.
